@@ -44,4 +44,4 @@ Computer Engineering Undergraduate | Tech Enthusiast
 
 If you'd like to collaborate on a project, talk about computer engineering, or just say hi, feel free to reach out!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nisindurupasinghe@gmail.com)
+📧 **Email:** [nisindurupasinghe@gmail.com]
