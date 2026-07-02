@@ -1,4 +1,4 @@
-# nisindu-rupasinghe-cloud
+# nisindurupasinghe-cloud
 
 # Hi welcome, I'm Nisindu! a computer engineering undergrad 🚀⚙️
 
