@@ -19,9 +19,6 @@ Computer Engineering Undergraduate | Tech Enthusiast
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="50" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="Arduino" width="50" height="50"/>
 </p>
 
