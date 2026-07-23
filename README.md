@@ -2,7 +2,7 @@
 
 # Hi welcome, I'm Nisindu! a computer engineering undergrad 🚀⚙️
 
-Computer Engineering Undergraduate | Tech Enthusiast
+Computer Engineering Undergraduate | Tech Enthusiast 
 
 ### 🛠️ Tech Stack  
 
