@@ -31,7 +31,7 @@ Computer Engineering Undergraduate | Tech Enthusiast
 
 
 
-## 📬 Connect with me     
+## 📬 Connect with me      
 
 If you'd like to collaborate on a project, talk about computer engineering, or just say hi, feel free to reach out!
 
