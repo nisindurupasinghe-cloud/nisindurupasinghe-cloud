@@ -49,21 +49,6 @@
 
 <br/>
 
-## 📌&nbsp; Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/nisindurupasinghe-cloud/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisindurupasinghe-cloud&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=C9D1D9&icon_color=9D4EDD"/>
-</a>
-<a href="https://github.com/nisindurupasinghe-cloud/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nisindurupasinghe-cloud&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=C9D1D9&icon_color=9D4EDD"/>
-</a>
-
-</div>
-
-<br/>
-
 ## 📊&nbsp; GitHub Analytics
 
 <div align="center">
