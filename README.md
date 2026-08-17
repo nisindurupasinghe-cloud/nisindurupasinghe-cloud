@@ -49,21 +49,6 @@
 
 <br/>
 
-## 📊&nbsp; GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nisindurupasinghe-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D8B4FE&icon_color=9D4EDD&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nisindurupasinghe-cloud&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=D8B4FE&currStreakLabel=D8B4FE"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisindurupasinghe-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=C9D1D9"/>
-
-</div>
- 
-<br/>
-
 ## 📈&nbsp; Activity Graph
 
 <div align="center">
