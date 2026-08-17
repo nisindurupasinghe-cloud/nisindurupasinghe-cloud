@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<a href="mailto:nisindurupasinghe-cloud@gmail.com">
+<a href="mailto:nisindurupasinghe@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/nisindurupasinghe-cloud">
