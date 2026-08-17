@@ -73,17 +73,6 @@
 </div>
 
 <br/>
-
-## 🏆&nbsp; Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nisindurupasinghe-cloud&theme=discord&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
-<br/>
-
 ## 📬&nbsp; Connect With Me
 
 <div align="center">
