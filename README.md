@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Location-Sri_Lanka-9D4EDD?style=for-the-badge&labelColor=1E1B2E"/>
+<img src="https://img.shields.io/badge/📍_Location-Colombo,Sri_Lanka-9D4EDD?style=for-the-badge&labelColor=1E1B2E"/>
 <img src="https://img.shields.io/badge/🎓_Status-Computing_Undergraduate-9D4EDD?style=for-the-badge&labelColor=1E1B2E"/>
 
 </div>
