@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B2E,100:9D4EDD&height=200&section=header&text=Nisindu%20Rupasinghe&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Undergraduate%20%E2%80%A2%20Tech%20Enthusiast&descAlignY=55&descSize=18&descColor=D8B4FE" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nisindu+%F0%9F%91%8B;Architecting+hardware+and+softeare;Computer+Engineering+%40+KDU;Always+learning%2C+Always+shipping" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nisindu+%F0%9F%91%8B;Architecting+hardware+and+software;Computer+Engineering+%40+KDU;Always+learning%2C+Always+shipping" />
 </a>
 
 <br/>
