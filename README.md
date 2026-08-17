@@ -17,9 +17,9 @@
 
 ## 👨‍💻&nbsp; About Me
 
-- 🔭 &nbsp;Currently building full-stack web projects and sharpening my engineering fundamentals
-- 🌱 &nbsp;Deepening my skills in **React**, backend development, and databases
-- 🤝 &nbsp;Open to collaborating on web dev, embedded systems, or student-led tech projects
+- 🔭 &nbsp;Full-stack web platforms, smart management applications, and embedded hardware circuits.
+- 🌱 &nbsp;Deepening my skills in Mobile architecture, backend databases, and integrating AI/ML models into software systems.
+- 🤝 &nbsp;Open to collaborating on Web applications, hardware/IoT systems, and impactful open-source projects.
 - ⚡ &nbsp;Fun fact: I like turning half-finished side projects into actual working products
 - 📫 &nbsp;Reach me at **nisindurupasinghe@gmail.com**
 
