@@ -91,12 +91,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=nisindurupasinghe-cloud&style=for-the-badge&color=9D4EDD&label=Profile+Views"/>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:1E1B2E&height=100&section=footer" width="100%"/>
 
 </div>
