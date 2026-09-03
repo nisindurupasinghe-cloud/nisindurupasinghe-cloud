@@ -20,7 +20,7 @@
 - 🔭 &nbsp;Full-stack web platforms, smart management applications, and embedded hardware circuits.
 - 🌱 &nbsp;Deepening my skills in Mobile architecture, backend databases, and integrating AI/ML models into software systems.
 - 🤝 &nbsp;Open to collaborating on Web applications, hardware/IoT systems, and impactful open-source projects.
-- ⚡ &nbsp;Fun fact: I like turning half-finished side projects into actual working products
+- ⚡ &nbsp;Fun fact: I like turning half-finished side projects into actual working products  
 - 📫 &nbsp;Reach me at **nisindurupasinghe@gmail.com**
 
 <br/>
